@@ -1,3 +1,7 @@
+# Examples Have Moved
+
+**Kafka Connect and Kafka Streams pipeline examples have moved to [quickstart-demos](https://github.com/confluentinc/quickstart-demos/tree/5.0.x/connect-streams-pipeline). Please check there for updated examples**.
+
 # Overview
 
 ## Objectives
